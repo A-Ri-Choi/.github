@@ -23,6 +23,10 @@
 - **E(박현상)** - 데이터 엔지니어링 
 - **F(임태하)** - 시퀀스 모델링 (LSTM)
 
+## 발표자료
+[MSAI3기_3팀_CEREAL_AI-Fitness-Trainer_발표자료.pdf](https://github.com/msai-cereal/.github/files/13371693/MSAI3._3._CEREAL_AI-Fitness-Trainer_.pdf)
+
+
 ## 🧙 감사의 말
 - Shout out to AI Hub Korea!
 
